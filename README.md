@@ -13,7 +13,4 @@ git clone https://github.com/progamergiuseppe/Send-Mail-With-Python.git
 pip install email
 
 pip install ssl
-
-```endcode
-
-t
+```code
