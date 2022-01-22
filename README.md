@@ -8,5 +8,12 @@ Send mail with python, with secure send email!
 # Instalation
 
 ```code
+git clone https://github.com/progamergiuseppe/Send-Mail-With-Python.git
 
-git clone 
+pip install email
+
+pip install ssl
+
+```endcode
+
+t
