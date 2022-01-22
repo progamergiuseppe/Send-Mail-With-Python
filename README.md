@@ -7,5 +7,5 @@ Send mail with python, with secure send email!
 
 # Instalation
 
-'''code
+```code
 1. git clone 
